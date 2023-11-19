@@ -1,5 +1,5 @@
 # git_assignment_HeroVired
-Created repository for assignment named git_assignment_HeroVired.
+#Created repository for assignment named git_assignment_HeroVired.
 Created a branch named dev and added python code file named CalculatorPlus.py featuring all the calculator functions.
 Merged dev branch with main branch and released version 1 of calculatorPlus App.
 Added a collaborator in order to create new branch named feature/sqrt and add square root function code to it.
